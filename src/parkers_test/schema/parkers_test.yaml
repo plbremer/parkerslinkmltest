@@ -1,0 +1,23 @@
+---
+id: https://w3id.org/no_organization/parkers_test
+name: parkers_test
+title: parkers_test
+description: |-
+  testing_cookie
+license: MIT
+see_also:
+  - https://no_organization.github.io/parkers_test
+
+prefixes:
+  parkers_test: https://w3id.org/no_organization/parkers_test/
+  linkml: https://w3id.org/linkml/
+  biolink: https://w3id.org/biolink/
+  schema: http://schema.org/
+  PATO: http://purl.obolibrary.org/obo/PATO_
+  example: https://example.org/
+default_prefix: parkers_test
+default_range: string
+
+imports:
+  - linkml:types
+  - personinfo_enums

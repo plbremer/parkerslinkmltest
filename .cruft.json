@@ -1,0 +1,27 @@
+{
+  "template": "https://github.com/linkml/linkml-project-cookiecutter",
+  "commit": "ef7ff16925321a2abdbaa5a2ba5db8aa83ebf24f",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "project_name": "parkers_test",
+      "__project_slug": "parkers_test",
+      "github_org": "no_organization",
+      "__source_path": "src/parkers_test/schema/parkers_test.yaml",
+      "project_description": "testing_cookie",
+      "full_name": "plb",
+      "email": "plbremer@ucdavis.edu",
+      "__author": "plb <plbremer@ucdavis.edu>",
+      "license": "MIT",
+      "main_schema_class": "Cat",
+      "create_python_classes": "Yes",
+      "use_schemasheets": "Yes",
+      "google_sheet_id": "1wVoaiFg47aT9YWNeRfTZ8tYHN8s8PAuDx5i2HUcDpvQ",
+      "google_sheet_tabs": "personinfo enums",
+      "__google_sheet_module": "personinfo_enums",
+      "github_token_for_pypi_deployment": "PYPI_PASSWORD",
+      "_template": "https://github.com/linkml/linkml-project-cookiecutter"
+    }
+  },
+  "directory": null
+}

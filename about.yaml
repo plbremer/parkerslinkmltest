@@ -1,0 +1,7 @@
+---
+name: parkers_test
+author: plb <plbremer@ucdavis.edu>
+description: testing_cookie
+source_schema_path: src/parkers_test/schema/parkers_test.yaml
+google_sheet_id: 1wVoaiFg47aT9YWNeRfTZ8tYHN8s8PAuDx5i2HUcDpvQ
+google_sheet_tabs: personinfo enums
